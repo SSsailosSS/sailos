@@ -31,8 +31,7 @@ $user3 = new User("Biba Boba", "boba", "password789");
 
 // Создание привилегированного пользователя
 $superUser = new SuperUser("Admin User", "admin", "adminpass", "Administrator");
-<a href="https://img.plantuml.biz/plantuml/png/hLHDRe905DxFAMQfgLw0cCQaAnTT6NTk44PBWZDc6Eh2abZRdQRTTjShgAqfncglyEP6VO0G4UsYCO4mx-_xUG7gdZAbylik8PPhUXvjUKmsk6AoQrgCZWYbLtHaTZmbJKi5b9jzPb2C7DuxhhcYv_1pnG623uMqpzKjmV7eMwfqI579WrOACELZ7EzE31kyAqfbWzuBnoR1eREzeOABelJJUd5Roh42wYFMZV2vCgZ3LLpB30Zv7mi5tJ6VpLBCWARdKZclfSTKAvKJJKU2CjDDVy3a1PnBuRBJg_1IXaljev8Z-sCxQ3pDtPg3MdC_dJol2qjgveGUR2h_ojSUgjNuNOdpIPYD4iA5ObI90HNT_BTYK7Y3hPx0Ie_rCwnWhHyfNh20ENp13fPw2jyGjZdCzKIF8OI5ViB-UPIby8Cj6prBMgCMXDZeruIm8vGI_OWpau9yxp7A4kyDDdz0Y74y35jKCeNrETHPcqVAFZ4PDs1_c9RmlCF960f3_K98dN4RVn6_" target="_blank">Просмотреть диаграмму классов</a>
-?>
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -230,7 +229,7 @@ $superUser = new SuperUser("Admin User", "admin", "adminpass", "Administrator");
                     </div>
                 </div>
             </div>
-            
+            <a href="https://img.plantuml.biz/plantuml/png/hLHDRe905DxFAMQfgLw0cCQaAnTT6NTk44PBWZDc6Eh2abZRdQRTTjShgAqfncglyEP6VO0G4UsYCO4mx-_xUG7gdZAbylik8PPhUXvjUKmsk6AoQrgCZWYbLtHaTZmbJKi5b9jzPb2C7DuxhhcYv_1pnG623uMqpzKjmV7eMwfqI579WrOACELZ7EzE31kyAqfbWzuBnoR1eREzeOABelJJUd5Roh42wYFMZV2vCgZ3LLpB30Zv7mi5tJ6VpLBCWARdKZclfSTKAvKJJKU2CjDDVy3a1PnBuRBJg_1IXaljev8Z-sCxQ3pDtPg3MdC_dJol2qjgveGUR2h_ojSUgjNuNOdpIPYD4iA5ObI90HNT_BTYK7Y3hPx0Ie_rCwnWhHyfNh20ENp13fPw2jyGjZdCzKIF8OI5ViB-UPIby8Cj6prBMgCMXDZeruIm8vGI_OWpau9yxp7A4kyDDdz0Y74y35jKCeNrETHPcqVAFZ4PDs1_c9RmlCF960f3_K98dN4RVn6_" target="_blank">Просмотреть диаграмму классов</a>
             <div class="card">
                 <div class="card-header">
                     <h2>Статистика системы</h2>
