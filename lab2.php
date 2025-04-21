@@ -311,12 +311,16 @@
                 </div>
                 
                 <div class="pattern-card">
-                    <div class="pattern-name">Итератор (Iterator)</div>
-                    <div class="pattern-desc">Последовательно обходит элементы коллекции.</div>
-                    <div class="pattern-links">
-                        <a href="lab2/Iterator/Conceptual/index.php" class="pattern-link" target="_blank">Концепт</a>
-                    </div>
+            <div class="pattern-name"> Итератор (Iterator) </div>
+            
+                <div class="pattern-desc">
+                    <p>Позволяет перебирать элементы коллекции без раскрытия ее реализации.</p>
                 </div>
+                <div class="pattern-links">
+                    <a href="lab2/Iterator/RealWorld/index.php" class="pattern-link" target="_blank">Концепт</a> 
+                    <a href="lab2/Iterator/Conceptual/index.php" class="pattern-link" target="_blank">Концепт</a>
+                </div>
+        </div>
                 
                 <div class="pattern-card">
                     <div class="pattern-name">Посредник (Mediator)</div>
